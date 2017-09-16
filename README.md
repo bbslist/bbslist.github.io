@@ -1,3 +1,6 @@
+
+ * You can also view and edit https://hackmd.io/AwIwxsAsIsC0AOAjAExHSLILgTgKzJwoDMYA7CAKYBsBuAZmEA== immediatly. :)
+
 # 已知現存 BBS 站台
 
 ## 大學相關站台
