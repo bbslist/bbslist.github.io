@@ -1,6 +1,8 @@
 
  * You can also view and edit https://hackmd.io/AwIwxsAsIsC0AOAjAExHSLILgTgKzJwoDMYA7CAKYBsBuAZmEA== immediatly. :)
 
+ * BBS 站台列表 For PCMan [測試載點](https://www.clam.ml/bbslist/pcman-windows/BBSList) （請在連結點右鍵選 **鍵結另存新檔** )
+
 # 已知現存 BBS 站台
 
 ## 大學相關站台
