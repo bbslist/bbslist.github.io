@@ -1,13 +1,18 @@
 # 使用方法
 
-用 https://github.com/holishing/bbslist/archive/master.zip
+在 [此連結](https://www.clam.ml/BBSList) 點選右鍵選「另存連結」等選項，
 
-將該壓縮檔載下來解壓縮，出現一個 bbslist 的資料夾
+以「BBSList」這個名稱 (沒有副檔名) 存到放 PCMan 程式的資料夾中 **取代** 原檔案，即完成更新
 
-將資料夾內 pcman-windows/BBSList 這一個沒有副檔名的檔案
+## 放 PCMan 程式的資料夾
 
-複製起來放到 PCman 程式的資料夾裡，
+### 免安裝版
 
-取代原本的 BBSList 這個檔案應該就可以用了 (不過建議是先將原來的 BBSList 檔案拿到其他地方備份)
+直接去名為 PCMan 或 PCMan Combo 的資料夾底下，有看到 PCMan.exe 及 BBSList 這些檔名的話就是在那邊
 
-* 如果有更簡單明瞭的說明方式歡迎提供 :P
+### 安裝版
+
+Win 10 在捷徑點右鍵，選取「開啟原始位置」的選項，就知道在那個資料夾了。
+
+有可能在
+C:\Program Files (x86)\PCMan
