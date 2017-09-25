@@ -94,6 +94,7 @@
 | :white_check_mark: | 書齋軒 | [telnet://211.21.191.123](telnet://211.21.191.123) | 提供個人及團體板 |
 | :white_check_mark: | 華年小集 | [telnet://138.197.204.42](telnet://138.197.204.42) |
 | :white_check_mark: | 網際新世界 | [telnet://209.141.35.127](telnet://209.141.35.127) |
+| :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net) |
 
 * 註： **twbbs.org** 網域即將[終止服務](http://twbbs.org)，故暫不附上相關網域資訊
 
