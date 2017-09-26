@@ -1,5 +1,5 @@
 
- * You can also view and edit https://hackmd.io/AwIwxsAsIsC0AOAjAExHSLILgTgKzJwoDMYA7CAKYBsBuAZmEA== immediatly. :)
+ * You can also view and edit https://hackmd.io/s/r1pdt-59b immediatly. :)
 
  * BBS 站台列表 For PCMan [測試載點](https://www.clam.ml/bbslist/pcman-windows/BBSList) （請在連結點右鍵選 **鍵結另存新檔** )
 
