@@ -90,13 +90,14 @@
 | :white_check_mark: | 反地球聯邦組織 | [telnet://122.116.74.57](telnet://122.116.74.57) |
 | :x: | 台灣天主教BBS站 厄瑪奴耳 | telnet://1.34.185.155 
 | :white_check_mark: | 動漫遊戲廣播站 | [telnet://bbs.animeyo.com](telnet://bbs.animeyo.com) |
-| :white_check_mark: | 南友小站 | [telnet://192.192.120.31](telnet://192.192.120.31) |
+| :white_check_mark: | 南友小站 |[telnet://tainan.jal.tw](telnet://tainan.jal.tw)<br>[telnet://192.192.120.31](telnet://192.192.120.31) |
 | :white_check_mark: | 書齋軒 | [telnet://211.21.191.123](telnet://211.21.191.123) | 提供個人及團體板 |
 | :white_check_mark: | 華年小集 | [telnet://138.197.204.42](telnet://138.197.204.42) |
 | :white_check_mark: | 網際新世界 | [telnet://209.141.35.127](telnet://209.141.35.127) |
-| :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net) |
+| :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | |
+| :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| |
 
-* 註： **twbbs.org** 網域即將[終止服務](http://twbbs.org)，故暫不附上相關網域資訊
+* 註： **twbbs.org** 網域即將[終止服務](http://twbbs.org/?q=about)，故暫不附上相關網域資訊
 
 ## 中國大陸站台
 
@@ -133,3 +134,9 @@
 | - | - | - | - |
 | :white_check_mark: | 美國 天天壇 | [telnet://tttan.com](telnet://tttan.com) |
 | :white_check_mark: | 美國 San Diego Home | [telnet://bbs.huaxiaspace.net](telnet://bbs.huaxiaspace.net) <br> [telnet://sd-bbs.net](telnet://sd-bbs.net) |
+
+## 待補充欄位
+
+* BBS 站台程式版本 (追溯至最近開源版本)
+* 是否支援加密連線資訊 / Web 版本
+* Web 版本 BBS 討論區與論壇的界定? 還是以 telnet 為主?
