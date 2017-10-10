@@ -26,14 +26,14 @@
 |  :white_check_mark: | 台大資管 鳴蟬小站（墮落天堂） | [telnet://bbs.im.ntu.edu.tw](telnet://bbs.im.ntu.edu.tw) |
 |  :x: | 台北醫學大學 杏林綠意 | telnet://bbs.tmu.edu.tw | 另外有很多班板在未來最舊小站 |
 |  :white_check_mark: | 臺北大學北極星II |   [telnet://bbs.ntpu.edu.tw](telnet://bbs.ntpu.edu.tw) |
-|  :white_check_mark: | 臺北市立大學 七號出口 |   [telnet://bbs.utaipei.edu.tw](telnet://bbs.utaipei.edu.tw) |
+|  :x: | 臺北市立大學 七號出口 |   [telnet://bbs.utaipei.edu.tw](telnet://bbs.utaipei.edu.tw) |
 | :x: | 台中教育大學 柳岸咖啡館~~ | telnet://bbs.ntcu.edu.tw | **2017/1/5測試：down** |
 | :white_check_mark: | 高雄大學 原野星辰 | [telnet://bbs.nuk.edu.tw](telnet://bbs.nuk.edu.tw) |
 | :x: | 海洋大學 | telnet://bbs.ntou.edu.tw |
 | :x: | 海洋電機 忘晴海 | telnet://bbs.ee.ntou.edu.tw |
 | :x: | 交通大學 次世代 | telnet://bs2.to | [已關站](https://www.ptt.cc/bbs/NCTU_TALK/M.1461738017.A.8BA.html) |
 | :white_check_mark: | 次世代．佚 | [telnet://bs2.io ](telnet://bs2.io) | [另外發起](https://www.ptt.cc/bbs/NCTU_TALK/M.1469423697.A.2AE.html)之相關延續站台 |
-| :white_check_mark:  | 交大淒美燈塔  |  [telnet://43.224.33.158](telnet://43.224.33.158) |
+| :x:  | 交大淒美燈塔  |  telnet://43.224.33.158 |
 | :white_check_mark:  | 交大機械工程  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) |
 | :white_check_mark:  | 暨大電機 漂浮電子 | [telnet://bbs.ee.ncnu.edu.tw](telnet://bbs.ee.ncnu.edu.tw)
 | :x: | 靜宜水世界  | telnet://bbs.cs.pu.edu.tw | 2017/1/5測試：down
@@ -63,14 +63,14 @@
 | :white_check_mark: | 師大歷史 原史空間 | [telnet://bbs.his.ntnu.edu.tw](telnet://bbs.his.ntnu.edu.tw) |
 | :white_check_mark: | 慈濟大學 蔚藍海岸  | [telnet://114.35.225.208](telnet://114.35.225.208) |
 | :white_check_mark: | 陽明 神農坡 | [telnet://bbs.ym.edu.tw](telnet://bbs.ym.edu.tw) | PCman主要作者畢業學校 |
-| :x: | 元智大學 | telnet://bbs.yzu.edu.tw | 2017/03/25測試：連線無回應 |
+| :x: | 元智大學 風之塔 | telnet://bbs.yzu.edu.tw | 2017/03/25測試：連線無回應 |
 | :x: | 雲林科技大學 藍天使 | telnet://bbs.yuntech.edu.tw | 2017/1/5測試：down |
 
 ## 高中相關站台
 
 | 可連線？ | 站名 | 位址 | 備註 |
 | - | - | - | - |
-| :x: | 建中之夏 烏魯木齊 | [telnet://bbs.ck.tp.edu.tw](telnet://bbs.ck.tp.edu.tw)|
+| :white_check_mark: | 建中之夏 烏魯木齊 | [telnet://bbs.ck.tp.edu.tw](telnet://bbs.ck.tp.edu.tw)|
 | :white_check_mark: | 中山女中 楓資羽翼 <br> (原「楓之羽翼」) | [telnet://203.68.236.13](telnet://203.68.236.13) <br> [telnet://csisc.csghs.tp.edu.tw](telnet://csisc.csghs.tp.edu.tw)
 | :white_check_mark: | 成功高中 沉澱日記 | [telnet://203.71.24.161](telnet://203.71.24.161) <br> [telnet://bbs.ckcsc.info](telnet://bbs.ckcsc.info) |
 | :white_check_mark: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) |
@@ -103,7 +103,7 @@
 
 | 可連線？ | 站名 | 位址 | 備註 |
 | - | - | - | - |
-| :white_check_mark: | 中科院 曙光站(智慧電腦中心) | [telnet://bbs.ncic.ac.cn](telnet://bbs.ncic.ac.cn) |
+| :x: | 中科院 曙光站(智慧電腦中心) | telnet://bbs.ncic.ac.cn |
 | :white_check_mark: | 北京大學 | [telnet://bbs.pku.edu.cn](telnet://bbs.pku.edu.cn) |
 | :white_check_mark: | 未名空間 | [telnet://mitbbs.com](telnet://mitbbs.com) | 相關衍生之商業BBS站台 |
 | :white_check_mark: | 北京大學 一塌糊塗 海外紀念站 | [telnet://bbs.ytht.net](telnet://bbs.ytht.net) |
@@ -111,15 +111,15 @@
 | :x: |清華大學  | telnet://smth.org | [無法連線](https://www.ptt.cc/bbs/SMTH/M.1415081920.A.2B0.html) |
 | :white_check_mark: | 清華大學 KissU | [telnet://bbs.thu.cn](telnet://bbs.thu.cn) |
 | :white_check_mark: | 水木社區 |    [telnet://newsmth.org](telnet://newsmth.org)     | 相關衍生之商業BBS站台 |
-| :white_check_mark: | 南京大學 小百合 |     [telnet://bbs.nju.edu.cn](telnet://bbs.nju.edu.cn) <br> [telnet://lilybbs.net](telnet://lilybbs.net) | 教育網 <br> 公眾網 |
+| :x: | 南京大學 小百合 |     telnet://bbs.nju.edu.cn <br> telnet://lilybbs.net | 教育網 <br> 公眾網 |
 | :x: | 哈爾濱工業大學 紫丁香站 |   telnet://bbs.hit.edu.cn | 無法連線,可能是限制校外ip連入或關站 |
 | :white_check_mark: | 紫丁香社區 | [telnet://lilacbbs.com](telnet://lilacbbs.com)      | 相關衍生之商業BBS站台 |
-| :white_check_mark: | 上海交通大學 | [telnet://bbs.sjtu.edu.cn](telnet://bbs.sjtu.edu.cn) |
+| :x: | 上海交通大學 | [telnet://bbs.sjtu.edu.cn](telnet://bbs.sjtu.edu.cn) |
 | :white_check_mark: | 廣西師範大學 煙雨漓江 | [telnet://bbs.gxnu.cn](telnet://bbs.gxnu.cn) |
 | :white_check_mark: | 四川大學 藍色星空站 | [telnet://virus.lsxk.org](telnet://virus.lsxk.org) |
-| :white_check_mark: | 復旦大學 日月光華_公網 | [telnet://bbs.fudan.sh.cn](telnet://bbs.fudan.sh.cn) |
+| :x: | 復旦大學 日月光華_公網 | telnet://bbs.fudan.sh.cn |
 | :white_check_mark: | 中國科大 瀚海星雲_公網 | [telnet://ustcbbs.ustc.edu.cn](telnet://ustcbbs.ustc.edu.cn) |
-| :white_check_mark: | 華中理工 白云黃鶴 | [telnet://bbs.whnet.edu.cn](telnet://bbs.whnet.edu.cn) |
+| :x: | 華中理工 白云黃鶴 | telnet://bbs.whnet.edu.cn |
 | :white_check_mark: | 上海交大 飲水思源 | [telnet://bbs.sjtu.edu.cn](telnet://bbs.sjtu.edu.cn) |
 | :white_check_mark: | 東南大學 虎踞龍盤 | [telnet://bbs.seu.edu.cn](telnet://bbs.seu.edu.cn) |
 | :white_check_mark: | 中國礦業大學 放鶴亭 | [telnet://bbs.cumt.edu.cn](telnet://bbs.cumt.edu.cn) |
