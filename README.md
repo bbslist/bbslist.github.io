@@ -186,14 +186,20 @@
 
 * PCMan : http://pcman.ptt.cc
 * KKman : http://www.kkbox.com/kkman/
+* Mac用戶:
+  * Welly(clyang版) : https://github.com/clyang/welly
 
 ### SSH 連線
 
 * PieTTY: https://sites.google.com/view/pietty-project
+* Mac用戶:
+  * Welly(clyang版) : https://github.com/clyang/welly
 
 ### Websocket 連線
 
 * PCMan : https://github.com/pcman-bbs/pcman-windows/releases
+* Mac用戶:
+  * Welly(clyang版) : https://github.com/clyang/welly
 
 ### 瀏覽器附加元件版本
 
