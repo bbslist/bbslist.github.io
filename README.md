@@ -3,7 +3,9 @@
 
 # 已知現存中文 BBS 站台
 
-stable version: https://holishing.github.io/bbslist
+###### tags: `telnet` `BBS` `電子布告欄` `站台`
+
+stable version: https://bbsmir.github.io/bbslist
 
 * 目前統計約 **85** 個
 
@@ -12,6 +14,8 @@ stable version: https://holishing.github.io/bbslist
 * BBS 站台程式版本 (追溯至最近開源版本)
 * 支援加密連線資訊 *(Web 版網址待補)*
 * 列表以 telnet 連線為基礎的站台為主，若只有 Web 論壇形式的站台暫不列入。
+* **twbbs.org** 網域即將[終止服務](http://twbbs.org/?q=about)，故暫不附上相關網域資訊
+* Current Ptt 版號可搭配 [此連結](https://github.com/ptt/pttbbs/blob/master/UPDATING) 了解其重大差異
 
 還請其他熱心人士協助編輯補充 `^_^`
 
@@ -20,30 +24,31 @@ stable version: https://holishing.github.io/bbslist
 | 可連線？ | 站名 | 位址 | 加密 | BBS 版本 | 備註 |
 | - | - | - | - | - | - |
 |  :white_check_mark: | 銘傳大學 築夢別境 | [telnet://bbs.mcu.edu.tw](telnet://bbs.mcu.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
+| :white_check_mark: | 逢甲紡織 七月七日晴 | [telnet://77bbs.com](telnet://77bbs.com) | | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | |
 |  :white_check_mark: | 東華大學 東方小城 | [telnet://bbs.ndhu.edu.tw](telnet://bbs.ndhu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 |  :white_check_mark: | 東吳機研站 | [telnet://scumotor.com.tw](telnet://scumotor.com.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 |  :white_check_mark: | 東海大學 資訊傳奇 | [telnet://bbs.csie.thu.edu.tw](telnet://bbs.csie.thu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-|  :white_check_mark: | 東海數學 陽光草坪 | [telnet://122.117.69.100](telnet://122.117.69.100) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+|  :white_check_mark: | 東海數學 陽光草坪 | [telnet://122.117.69.100](telnet://122.117.69.100) | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 |  :white_check_mark: | 淡江資管 渡船頭之戀 | [telnet://bbs.im.tku.edu.tw](telnet://bbs.im.tku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 |  :white_check_mark: | 淡江蛋捲 新系統測試站 | [telnet://loyal.ee.tku.edu.tw](telnet://loyal.ee.tku.edu.tw) | | [天火系統](http://tube.ee.tku.edu.tw/~rexchen/bbs/index.html) | |
 |  :white_check_mark: | 淡江資管 星星之戀 | [telnet://starlove.im.tku.edu.tw](telnet://starlove.im.tku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc)| |
 |  :white_check_mark: | 台大批踢踢   |   [telnet://ptt.cc](telnet://ptt.cc) <br>  [ip](telnet://140.112.172.11) / [ip~1~](telnet://140.112.172.1) / [ip~2~](telnet://140.112.172.2) / [ip~3~](telnet://140.112.172.3) /  [ip~4~](telnet://140.112.172.4) / [ip~5~](telnet://140.112.172.5)  | [:white_check_mark:](#加密連線站台資料列表) | [Current Ptt](https://github.com/ptt/pttbbs) | guest無法登入 | 
 |  :white_check_mark: | 批踢踢兔  | [telnet://ptt2.cc](telnet://ptt2.cc) | [:white_check_mark:](#加密連線站台資料列表) | [Current Ptt](https://github.com/ptt/pttbbs) | guest無法登入 |
-|  :white_check_mark: | 批踢踢參 | [telnet://ptt3.cc](telnet://ptt3.cc) | [:white_check_mark:](#加密連線站台資料列表) | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+|  :white_check_mark: | 批踢踢參 | [telnet://ptt3.cc](telnet://ptt3.cc) | [:white_check_mark:](#加密連線站台資料列表) | [CurrentPtt](https://github.com/ptt/pttbbs) <br> trunk r4423 | |
 |  :white_check_mark: | 台大未來最舊 | [telnet://ofo.tw](telnet://ofo.tw) | [:white_check_mark:](#加密連線站台資料列表) | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | 不開放guest |
 |  :white_check_mark: | 台大 不良牛 | [telnet://bbs.badcow.com.tw](telnet://bbs.badcow.com.tw) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | 因仍有 DNS 反查, 部份BBS瀏覽器不支援 |
 |  :white_check_mark: | 台大物理 冷月流蘇 | [telnet://bbs.phys.ntu.edu.tw](telnet://bbs.phys.ntu.edu.tw) <br> [telnet://bbs.phys.tw](telnet://bbs.phys.tw) |  | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | |
 |  :white_check_mark: | 台大資管 鳴蟬小站 墮落天堂 | [telnet://bbs.im.ntu.edu.tw](telnet://bbs.im.ntu.edu.tw) | [:white_check_mark:](#加密連線站台資料列表) | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
 |  :x: | 台北醫學大學 杏林綠意 | telnet://bbs.tmu.edu.tw | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | 另外有很多班板在未來最舊小站 |
 |  :white_check_mark: | 臺北大學 北極星 |   [telnet://bbs.ntpu.edu.tw](telnet://bbs.ntpu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-|  :x: | 臺北市立大學 七號出口 |   [telnet://bbs.utaipei.edu.tw](telnet://bbs.utaipei.edu.tw) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+|  :white_check_mark: | 臺北市立大學 七號出口 |   [telnet://bbs.utaipei.edu.tw](telnet://bbs.utaipei.edu.tw) | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 | :x: | 台中教育大學 柳岸咖啡館 | telnet://bbs.ntcu.edu.tw | | | **2017/1/5測試：down** |
 | :white_check_mark: | 高雄大學 原野星辰 | [telnet://bbs.nuk.edu.tw](telnet://bbs.nuk.edu.tw) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
 | :x: | 海洋大學 | telnet://bbs.ntou.edu.tw | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :x: | 海洋電機 忘晴海 | telnet://bbs.ee.ntou.edu.tw | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+| :x: | 海洋電機 忘晴海 | telnet://bbs.ee.ntou.edu.tw | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 | :x: | 交通大學 次世代 | telnet://bs2.to | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [已關站](https://www.ptt.cc/bbs/NCTU_TALK/M.1461738017.A.8BA.html) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已宣布關站 |
 | :white_check_mark: | 次世代．佚 | [telnet://bs2.io ](telnet://bs2.io) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [另外發起](https://www.ptt.cc/bbs/NCTU_TALK/M.1469423697.A.2AE.html)之相關延續站台 |
-| :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
+| :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:white_check_mark:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :white_check_mark:  | 交通大學 機械工程  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :white_check_mark:  | 暨大電機 漂浮電子 | [telnet://bbs.ee.ncnu.edu.tw](telnet://bbs.ee.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 靜宜水世界  | telnet://bbs.cs.pu.edu.tw | | | 2017/1/5測試：down
@@ -54,7 +59,6 @@ stable version: https://holishing.github.io/bbslist
 | :white_check_mark: | 中央數學 織夢天堂 | [telnet://bbs.math.ncu.edu.tw](telnet://bbs.math.ncu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 中山大學 美麗島 | [telnet://140.117.11.2](telnet://140.117.11.2) <br> [telnet://bbs.nsysu.edu.tw](telnet://bbs.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
 | :white_check_mark: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
-| :white_check_mark: | 中山大學 七月七日晴 | [telnet://77bbs.com](telnet://77bbs.com) | | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | |
 | :white_check_mark: | 中正築夢園 | [telnet://140.123.20.230](telnet://140.123.20.230) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :white_check_mark: | 中正大學 寂寞芳心小站 | [telnet://bbs.ccu.edu.tw](telnet://bbs.ccu.edu.tw) | | [Maple3.02](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/)  | |
 | :white_check_mark: | 中正通訊 1394 | [telnet://bbs.comm.ccu.edu.tw](telnet://bbs.comm.ccu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -67,15 +71,16 @@ stable version: https://holishing.github.io/bbslist
 | :white_check_mark: | 成大醫學 迴風谷 | [telnet://bbs.med.ncku.edu.tw](telnet://bbs.med.ncku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 成大電機 風之谷 | [telnet://bbs.ee.ncku.edu.tw ](telnet://bbs.ee.ncku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | |
 | :x: | 長庚大學 巧克力傳奇 | telnet://bbs.cgu.edu.tw |
-| :white_check_mark: | 長庚醫學 醫甸園 | [telnet://bbs.med.cgu.edu.tw](telnet://bbs.med.cgu.edu.tw) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+| :x: | 長庚醫學 醫甸園 | [telnet://bbs.med.cgu.edu.tw](telnet://bbs.med.cgu.edu.tw) | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 | :white_check_mark: | 師大資訊 白色情迷 | [telnet://bbs.csie.ntnu.edu.tw](telnet://bbs.csie.ntnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 師大數學 獨數一閣 | [telnet://bbs.math.ntnu.edu.tw](telnet://bbs.math.ntnu.edu.tw) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) |
+| :white_check_mark: | 師大數學 獨數一閣 | [telnet://bbs.math.ntnu.edu.tw](telnet://bbs.math.ntnu.edu.tw) | | [PttBBS](https://github.com/ptt/pttbbs) <br> trunk r5284 |
 | :white_check_mark: | 師大 人民公社 | [telnet://cvic.org](telnet://cvic.org) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
 | :white_check_mark: | 師大歷史 原史空間 | [telnet://bbs.his.ntnu.edu.tw](telnet://bbs.his.ntnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 慈濟大學 蔚藍海岸  | [telnet://perlbbs.tw](telnet://perlbbs.tw) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
 | :white_check_mark: | 陽明 神農坡 | [telnet://bbs.ym.edu.tw](telnet://bbs.ym.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | PCman主要作者畢業學校 |
 | :x: | 元智大學 風之塔 | telnet://bbs.yzu.edu.tw | | [WindTop BBS](http://windtop.yzu.edu.tw/) | 2017/03/25測試：連線無回應 |
 | :x: | 雲林科技大學 藍天使 | telnet://bbs.yuntech.edu.tw | | | 2017/1/5測試：down |
+| :white_check_mark: | 中央 神通廣大 | [telnet://bbs.ce.ncu.edu.tw](telnet://bbs.ce.ncu.edu.tw) | | 
 
 ## 高中相關站台
 
@@ -107,15 +112,13 @@ stable version: https://holishing.github.io/bbslist
 | :x: | 台灣天主教BBS站 厄瑪奴耳 | telnet://1.34.185.155 | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 動漫遊戲廣播站 | [telnet://bbs.animeyo.com](telnet://bbs.animeyo.com) |  | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 南友小站 |[telnet://tainan.jal.tw](telnet://tainan.jal.tw)<br>[telnet://192.192.120.31](telnet://192.192.120.31) |  | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 書齋軒 | [telnet://211.21.191.123](telnet://211.21.191.123) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | 提供個人及團體板 |
-| :white_check_mark: | 華年小集 | [telnet://138.197.204.42](telnet://138.197.204.42) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt)  | |
+| :white_check_mark: | 書齋軒 | [telnet://bbs.windcity.net](telnet://bbs.windcity.net) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | 提供個人及團體板 |
+| :white_check_mark: | 華年小集 | [telnet://literature.twbbs.io](telnet://literature.twbbs.io) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r5563 | |
 | :white_check_mark: | 網際新世界 | [telnet://209.141.35.127](telnet://209.141.35.127) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
-| :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | |
+| :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | |
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| | [WindTopBBS](http://windtop.yzu.edu.tw) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
-
-* 註： **twbbs.org** 網域即將[終止服務](http://twbbs.org/?q=about)，故暫不附上相關網域資訊
 
 ## 中國大陸站台
 
@@ -183,18 +186,20 @@ stable version: https://holishing.github.io/bbslist
   * wss://ws.ptt.cc/bbs (從改版過的 PttChrome 免安裝體驗: https://term.ptt.cc )
 
 * 台中一中 龍夢紀元
-  * wss://eod.tw/bbs (從改版過的 PttChrome [免安裝體驗](https://goo.gl/LjipQc) )
+  * wss://eod.tw/bbs (從改版過的 PttChrome [免安裝體驗](https://term.ptt.cc/?site=wsstelnet://eod.tw/bbs) )
   * wss://bbs.tcfsh.tc.edu.tw/bbs
 
 * 台中一中電研社 極光鯨藍
-  * wss://tcirc.org/bbs (從改版過的 PttChrome [免安裝體驗](https://goo.gl/H9sn7t) ) 
+  * wss://tcirc.org/bbs (從改版過的 PttChrome [免安裝體驗](https://term.ptt.cc/?site=wsstelnet://tcirc.org/bbs) ) 
 
 * 台大資管 鳴蟬小站 墮落天堂
-  * wss://tolo.ntu.im/bbs (從改版過的 PttChrome [免安裝體驗](https://tolo.ntu.im/) )
+  * wss://tolo.ntu.im/bbs (從改版過的 PttChrome 免安裝體驗: https://tolo.ntu.im )
 
 * 巴哈姆特 BBS
-  * wss://term.gamer.com.tw/bbs (從改版過的 PttChrome [免安裝體驗](https://term.gamer.com.tw) )
+  * wss://term.gamer.com.tw/bbs (從改版過的 PttChrome 免安裝體驗: https://term.gamer.com.tw )
 
+* 淒美燈塔
+  * wss://wsbbs.pharos.rocks (從改版過的 PttChrome 免安裝體驗: https://bbs.pharos.rocks )
 
 ## BBS 瀏覽器列表
 
