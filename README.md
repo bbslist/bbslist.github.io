@@ -3,10 +3,6 @@
 
 # 已知現存中文 BBS 站台
 
-###### tags: `telnet` `BBS` `電子布告欄` `站台`
-
-stable version: https://bbsmir.github.io/bbslist
-
 * 目前統計約 **85** 個
 
 ## 近期修正與補充欄位
@@ -94,6 +90,7 @@ stable version: https://bbsmir.github.io/bbslist
 | :x: | 中壢高中 壢網狂瀾 | telnet://clhs.csie.org | |[WindTop BBS](http://windtop.yzu.edu.tw/) |  |
 | :white_check_mark: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [wss://eod.tw/bbs](wss://eod.tw/bbs) |[:white_check_mark:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支
 | :white_check_mark: | 台中一中電研社 極光鯨藍 | [telnet://tcirc.org](telnet://tcirc.org/) <br> [wss://tcirc.org/bbs](wss://tcirc.org/bbs) | [:white_check_mark:](#加密連線站台資料列表) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> GitHub: https://github.com/MapleCirc/Auroral
+| :white_check_mark: | 台中二中 迷幻國度 | [telnet://csc241.tcssh.tc.edu.tw](telnet://csc241.tcssh.tc.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc)
 | :white_check_mark: | 台南一中 與南共舞 | [telnet://bbs.tnfsh.tn.edu.tw](telnet://bbs.tnfsh.tn.edu.tw) <br> [telnet://wolf.tfcis.org](telnet://wolf.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 台南一中資訊社  索尼小站 | [telnet://sony.tfcis.org](telnet://sony.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 台南一中 動力核心 | telnet://cpu.tfcis.org | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2017/8/20後: down |
