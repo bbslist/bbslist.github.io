@@ -158,6 +158,7 @@
 * 南京大學 小百合 20050322分站 telnet://bbs.nju.edu.cn
 
 ## 其他海外華文 BBS 站台
+
 | 可連線？ | 站名 | 位址 | 加密 | BBS 版本 | 備註 |
 | - | - | - | - | - | - |
 | :x: | 美國 天天壇 | [telnet://tttan.com](telnet://tttan.com) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
