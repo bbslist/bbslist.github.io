@@ -2,8 +2,8 @@
 
 ###### tags: `telnet` `BBS` `電子布告欄` `站台`
 
-stable version: https://bbslist.github.io
-
+* stable version: https://bbslist.github.io
+* hackmd version: https://hackmd.io/r1pdt-59b
 * 目前統計約 **85** 個
 
 ## 近期修正與補充欄位
