@@ -48,7 +48,7 @@
 | :x: | 高雄大學 原野星辰 | [telnet://bbs.nuk.edu.tw](telnet://bbs.nuk.edu.tw) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
 | :x: | 海洋大學 | telnet://bbs.ntou.edu.tw | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 海洋電機 忘晴海 | telnet://bbs.ee.ntou.edu.tw | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
-| :x: | 交通大學 次世代 | telnet://bs2.to | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [已關站](https://www.ptt.cc/bbs/NCTU_TALK/M.1461738017.A.8BA.html) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已宣布關站 |
+| :x: | 交通大學 次世代 | telnet://bs2.to | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [已關站](https://www.ptt.cc/bbs/NCTU_TALK/M.1461738017.A.8BA.html) |
 | :white_check_mark: | 次世代．佚 | [telnet://bs2.io ](telnet://bs2.io) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [另外發起](https://www.ptt.cc/bbs/NCTU_TALK/M.1469423697.A.2AE.html)之相關延續站台 |
 | :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:x:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :white_check_mark:  | 交通大學 機械工廠  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) | | [Maple3.10-itoc](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
