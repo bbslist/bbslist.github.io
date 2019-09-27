@@ -53,6 +53,7 @@
 | :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:x:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :white_check_mark:  | 交通大學 機械工廠  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) | | [Maple3.10-itoc](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :x:  | 暨大電機 漂浮電子 | [telnet://bbs.ee.ncnu.edu.tw](telnet://bbs.ee.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
+| :white_check_mark:  | 暨大土木 土木小站 | [telnet://bbs.ce.ncnu.edu.tw](telnet://bbs.ce.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |無法使用guest，以及看板列表毀損 |
 | :x: | 靜宜水世界  | telnet://bbs.cs.pu.edu.tw | | | 2017/1/5測試：down
 | :white_check_mark: | 暨南大學 水沙連 | [telnet://bbs.ncnu.edu.tw](telnet://bbs.ncnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 清華大學 楓橋驛站 | [telnet://bbs.cs.nthu.edu.tw](telnet://bbs.cs.nthu.edu.tw) <br> [telnet://imaple.tw](telnet://imaple.tw) <br> [telnet://140.114.87.5](telnet://140.114.87.5) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | (2007年, 系統從自己開發的系統, 轉換成 itoc 大 fork 出來的版本 繼續維護)
@@ -63,10 +64,11 @@
 | :white_check_mark: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
 | :white_check_mark: | 中正築夢園 | [telnet://140.123.29.12](telnet://140.123.29.12) [telnet://cd.cna.ccu.edu.tw](telnet://cd.cna.ccu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |已由Maple 3 轉至 Maple3.10-itoc 版本 |
 | :x: | 中正大學 寂寞芳心小站 | [telnet://bbs.ccu.edu.tw](telnet://bbs.ccu.edu.tw) | | [Maple3.02](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/)  |2018/8/3測試：down |
+| :white_check_mark: | 中正大學 闇黑國度 | [telnet://bbs.cna.ccu.edu.tw](telnet://bbs.cna.ccu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 中正通訊 1394 | [telnet://bbs.comm.ccu.edu.tw](telnet://bbs.comm.ccu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 中正心理 心海奇航 賽卡羅旗號 | [telnet://140.123.185.40](telnet://140.123.185.40) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 政大資科 貓空行館 | [telnet://bbs.cs.nccu.edu.tw](telnet://bbs.cs.nccu.edu.tw) | | [Maple3.02](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) |
-| :x: | 彰師生命 擎天崗 | [telnet://bbs.bio.ncue.edu.tw](telnet://bbs.bio.ncue.edu.tw) <br> [telnet://bbs2.ncue.edu.tw](telnet://bbs2.ncue.edu.tw) <br> [telnet://micro.bio.ncue.edu.tw](telnet://micro.bio.ncue.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
+| :white_check_mark: | 彰師生命 擎天崗 | [telnet://bbs.bio.ncue.edu.tw](telnet://bbs.bio.ncue.edu.tw) <br> [telnet://bbs2.ncue.edu.tw](telnet://bbs2.ncue.edu.tw) <br> [telnet://micro.bio.ncue.edu.tw](telnet://micro.bio.ncue.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 真理大學 雲淡風清 | [telnet://bbs.au.edu.tw](telnet://bbs.au.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 真理大學 脆笛酥的家 | [telnet://bbs.jal.tw](telnet://bbs.jal.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 成功大學 夢之大地 |  ~~telnet://140.116.250.3~~ **(IP已更改)** <br> [telnet://140.116.249.140](telnet://140.116.249.140/) **(現在IP)** <br> [telnet://bbs.ccns.ncku.edu.tw](telnet://bbs.ccns.ncku.edu.tw/) <br> [telnet://ccns.cc](telnet://ccns.cc) **(新網域)** | | [WindTop BBS](http://windtop.yzu.edu.tw/) <br> [Dreamlandbbs](https://github.com/ccns/dreamlandbbs) | |
@@ -81,7 +83,6 @@
 | :white_check_mark: | 慈濟大學 蔚藍海岸  | [telnet://perlbbs.tw](telnet://perlbbs.tw) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
 | :x: | 陽明 神農坡 | [telnet://bbs.ym.edu.tw](telnet://bbs.ym.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | PCman主要作者畢業學校 |
 | :x: | 元智大學 風之塔 | telnet://bbs.yzu.edu.tw | | [WindTop BBS](http://windtop.yzu.edu.tw/) | 2017/03/25測試：連線無回應 |
-| :white_check_mark: | 彰師生物 吟風‧眺月‧擎天崗 | [telnet://micro.bio.ncue.edu.tw](telnet://micro.bio.ncue.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 雲林科技大學 藍天使 | telnet://bbs.yuntech.edu.tw | | | 2017/1/5測試：down |
 | :x: | 中央 神通廣大 | [telnet://bbs.ce.ncu.edu.tw](telnet://bbs.ce.ncu.edu.tw) | | | |
 | :white_check_mark: | 中原資工 神祕之旅 | [telnet://bbs.ice.cycu.edu.tw](telnet://bbs.ice.cycu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -123,7 +124,7 @@
 | :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | |
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| | [WindTopBBS](http://windtop.yzu.edu.tw) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
-| :white_check_mark: | 西雅圖 | [telnet://59.126.126.89](telnet://59.126.126.89) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
+| :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://59.126.126.89](telnet://59.126.126.89) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 
