@@ -56,7 +56,7 @@
 | :white_check_mark:  | 暨大土木 土木小站 | [telnet://bbs.ce.ncnu.edu.tw](telnet://bbs.ce.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |無法使用guest，以及看板列表毀損 |
 | :x: | 靜宜水世界  | telnet://bbs.cs.pu.edu.tw | | | 2017/1/5測試：down
 | :white_check_mark: | 暨南大學 水沙連 | [telnet://bbs.ncnu.edu.tw](telnet://bbs.ncnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 清華大學 楓橋驛站 | [telnet://bbs.cs.nthu.edu.tw](telnet://bbs.cs.nthu.edu.tw) <br> [telnet://imaple.tw](telnet://imaple.tw) <br> [telnet://140.114.87.5](telnet://140.114.87.5) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | (2007年, 系統從自己開發的系統, 轉換成 itoc 大 fork 出來的版本 繼續維護)
+| :white_check_mark: | 清華大學 楓橋驛站 | **因防火牆設定問題，請先使用 port 443**：<br>[**telnet://bbs.cs.nthu.edu.tw:443**](telnet://bbs.cs.nthu.edu.tw:443)<br>[**telnet://140.114.87.5:443**](telnet://140.114.87.5:443)<br>[**telnet://imaple.tw:443**](telnet://imaple.tw:443)<br>[~~telnet://bbs.cs.nthu.edu.tw~~](telnet://bbs.cs.nthu.edu.tw) <br> [~~telnet://imaple.tw~~](telnet://imaple.tw) <br> [~~telnet://140.114.87.5~~](telnet://140.114.87.5) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | (2007年, 系統從自己開發的系統, 轉換成 itoc 大 fork 出來的版本 繼續維護)
 | :x: | 清華資工 呼拉貝爾 | [telnet://114.32.9.125](telnet://114.32.9.125) | | [WindTop BBS](http://windtop.yzu.edu.tw/) |  |
 | :x: | 中央大學 二進位 | [telnet://140.115.50.50](telnet://140.115.50.50) <br> [telnet://binary.csie.ncu.edu.tw](telnet://binary.csie.ncu.edu.tw) <br> [telnet://bbs.ncu.cc](telnet://bbs.ncu.cc) | | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | |
 | :white_check_mark: | 中央數學 織夢天堂 | [telnet://bbs.math.ncu.edu.tw](telnet://bbs.math.ncu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -97,12 +97,12 @@
 | :x: | 成功高中 沉澱日記 | [telnet://203.71.24.161](telnet://203.71.24.161) <br> [telnet://bbs.ckcsc.info](telnet://bbs.ckcsc.info) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 永春高中 永春哈哈 | [telnet://haha.ycsh.tp.edu.tw](telnet://haha.ycsh.tp.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 無法進去看板閱讀， 僅能瀏覽公佈欄/精華區 |
 | :x: | 中壢高中 壢網狂瀾 | telnet://clhs.csie.org | |[WindTop BBS](http://windtop.yzu.edu.tw/) |  |
-| :x: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [wss://eod.tw/bbs](wss://eod.tw/bbs) |[:x:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支
+| :white_check_mark: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [wss://eod.tw/bbs](wss://eod.tw/bbs) |[:x:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支
 | :x: | 台中一中電研社 極光鯨藍 | [telnet://tcirc.org](telnet://tcirc.org/) <br> [wss://tcirc.org/bbs](wss://tcirc.org/bbs) | [:x:](#加密連線站台資料列表) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> GitHub: https://github.com/MapleCirc/Auroral
 | :x: | 台中二中 迷幻國度 | [telnet://csc241.tcssh.tc.edu.tw](telnet://csc241.tcssh.tc.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc)
 | :white_check_mark: | 台南一中 與南共舞 | [telnet://bbs.tnfsh.tn.edu.tw](telnet://bbs.tnfsh.tn.edu.tw) <br> [telnet://wolf.tfcis.org](telnet://wolf.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 台南一中資訊社  索尼小站 | [telnet://sony.tfcis.org](telnet://sony.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 台南一中 動力核心 | [telnet://cpu.tfcis.org](telnet://cpu.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2017/8/20後: down |
+| :white_check_mark: | 台南一中 動力核心 | [telnet://cpu.tfcis.org](telnet://cpu.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) ||
 
 
 ## 不在學術網路的站台
@@ -126,6 +126,7 @@
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://59.126.126.89](telnet://59.126.126.89) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
+| :white_check_mark: | 八八八 | [telnet://bbs.wim888.tw](telnet://bbs.wim888.tw)| |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 
 ## 中國大陸站台
