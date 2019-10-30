@@ -9,7 +9,7 @@
 共筆版本(Co-writing version)可自由編輯，穩定版本(stable version)則是一段時間後，確認沒太大問題的修改才會 push 上去，若覺得 GitHub 版本太久沒更新可去[提 issue](https://github.com/bbslist/bbslist.github.io/issues)，整體資訊是否過時與過於老舊，以及之後有沒有更好的方法，則取決於能協助確認資訊、改善方法的大大們有多少了。
 
 ## 數量
-* 目前統計約 **55** 個
+* 目前統計約 **54** 個
 
 ## 近期修正與補充欄位
 
