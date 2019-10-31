@@ -50,7 +50,7 @@
 | :x: | 海洋電機 忘晴海 | telnet://bbs.ee.ntou.edu.tw | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 | :x: | 交通大學 次世代 | telnet://bs2.to | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [已關站](https://www.ptt.cc/bbs/NCTU_TALK/M.1461738017.A.8BA.html) |
 | :white_check_mark: | 次世代．佚 | [telnet://bs2.io ](telnet://bs2.io) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | [另外發起](https://www.ptt.cc/bbs/NCTU_TALK/M.1469423697.A.2AE.html)之相關延續站台 |
-| :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:x:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
+| :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:white_check_mark:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | 2019-10-31 測試: Websocket up |
 | :x:  | 交通大學 機械工廠  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) | | [Maple3.10-itoc](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | 2019-10-30 測試: 連線失敗 |
 | :x:  | 暨大電機 漂浮電子 | [telnet://bbs.ee.ncnu.edu.tw](telnet://bbs.ee.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark:  | 暨大土木 土木小站 | [telnet://bbs.ce.ncnu.edu.tw](telnet://bbs.ce.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |無法使用guest，以及看板列表毀損 |
@@ -78,7 +78,7 @@
 | :x: | 長庚醫學 醫甸園 | [telnet://bbs.med.cgu.edu.tw](telnet://bbs.med.cgu.edu.tw) | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
 | :x: | 師大資訊 白色情迷 | [telnet://bbs.csie.ntnu.edu.tw](telnet://bbs.csie.ntnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 師大數學 獨數一閣 | [telnet://bbs.math.ntnu.edu.tw](telnet://bbs.math.ntnu.edu.tw) | | [PttBBS](https://github.com/ptt/pttbbs) <br> trunk r5284 |
-| :x: | 師大 人民公社 | [telnet://cvic.org](telnet://cvic.org) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | 2019-10-30 測試: 連線失敗 |
+| :white_check_mark: | 師大 人民公社 | [telnet://cvic.org](telnet://cvic.org) <br> [telnet://cvic.be](telnet://cvic.be) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | 2019-10-31 測試: Up |
 | :x: | 師大歷史 原史空間 | [telnet://bbs.his.ntnu.edu.tw](telnet://bbs.his.ntnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 慈濟大學 蔚藍海岸  | [telnet://perlbbs.tw](telnet://perlbbs.tw) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
 | :x: | 陽明 神農坡 | [telnet://bbs.ym.edu.tw](telnet://bbs.ym.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | PCman主要作者畢業學校 |
@@ -121,7 +121,7 @@
 | :white_check_mark: | 書齋軒 | [telnet://bbs.windcity.net](telnet://bbs.windcity.net) | | [Open Ptt](http://ftp.isu.edu.tw/unix/BBS/Ptt/openptt) | 提供個人及團體板 |
 | :white_check_mark: | 華年小集 | [telnet://literature.twbbs.io](telnet://literature.twbbs.io) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r5563 | |
 | :white_check_mark: | 網際新世界 | [telnet://209.141.35.127](telnet://209.141.35.127) | | [Sun of Beach](http://ftp.isu.edu.tw/Unix/BBS/SOB/) | |
-| :x: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | 2019-10-30 測試: 連線失敗 |
+| :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | 2019-10-31 測試: Up (似乎有同 IP 不能同時連線的限制) |
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| | [WindTopBBS](http://windtop.yzu.edu.tw) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://59.126.126.89](telnet://59.126.126.89) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
