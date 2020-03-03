@@ -9,7 +9,7 @@
 共筆版本(Co-writing version)可自由編輯，穩定版本(stable version)則是一段時間後，確認沒太大問題的修改才會 push 上去，若覺得 GitHub 版本太久沒更新可去[提 issue](https://github.com/bbslist/bbslist.github.io/issues)，整體資訊是否過時與過於老舊，以及之後有沒有更好的方法，則取決於能協助確認資訊、改善方法的大大們有多少了。
 
 ## 數量
-* 目前統計約 **57** 個
+* 目前統計約 **58** 個
 
 ## 近期修正與補充欄位
 
@@ -28,10 +28,10 @@
 |  :x: | 銘傳大學 築夢別境 | [telnet://bbs.mcu.edu.tw](telnet://bbs.mcu.edu.tw) | | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :x: | 逢甲紡織 七月七日晴 | [telnet://77bbs.com](telnet://77bbs.com) | | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | |
 |  :white_check_mark: | 東華大學 東方小城 | [telnet://bbs.ndhu.edu.tw](telnet://bbs.ndhu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 目前 telnet 連線的看板列表錯誤，會導致斷線；web 連線正常|
-|  :white_check_mark: | 東吳機研站 | [telnet://scumotor.com.tw](telnet://scumotor.com.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
+|  :white_check_mark: | 東吳機研站 | [telnet://scumotor.com.tw](telnet://scumotor.com.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2019-12-31 測試: Up |
 |  :x: | 東海大學 資訊傳奇 | [telnet://bbs.csie.thu.edu.tw](telnet://bbs.csie.thu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-|  :x: | 東海數學 陽光草坪 | [telnet://122.117.69.100](telnet://122.117.69.100) | | [Current Ptt](https://github.com/ptt/pttbbs) <br> (不明舊版本) | |
-|  :x: | 淡江資管 渡船頭之戀 | [telnet://bbs.im.tku.edu.tw](telnet://bbs.im.tku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
+|  :x: | 東海數學 陽光草坪 | [telnet://122.117.69.100](telnet://122.117.69.100) | | [Current Ptt](https://github.com/ptt/pttbbs) <br/> (不明舊版本) | |
+| :white_check_mark:  | 淡江資管 渡船頭之戀 | [telnet://bbs.im.tku.edu.tw](telnet://bbs.im.tku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020-02-09 測試: Up|
 |  :x: | 淡江蛋捲 新系統測試站 | [telnet://loyal.ee.tku.edu.tw](telnet://loyal.ee.tku.edu.tw) | | [天火系統](http://tube.ee.tku.edu.tw/~rexchen/bbs/index.html) | 2019-10-30 測試: 連線失敗 |
 |  :x: | 淡江資管 星星之戀 | [telnet://starlove.im.tku.edu.tw](telnet://starlove.im.tku.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc)| |
 |  :white_check_mark: | 台大批踢踢   |   [telnet://ptt.cc](telnet://ptt.cc) <br>  [ip](telnet://140.112.172.11) / [ip~1~](telnet://140.112.172.1) / [ip~2~](telnet://140.112.172.2) / [ip~3~](telnet://140.112.172.3) /  [ip~4~](telnet://140.112.172.4) / [ip~5~](telnet://140.112.172.5)  | [:white_check_mark:](#加密連線站台資料列表) | [Current Ptt](https://github.com/ptt/pttbbs) | guest無法登入 | 
@@ -53,15 +53,15 @@
 | :white_check_mark:  | 淒美燈塔  |  [telnet://bbs.pharos.rocks](telnet://bbs.pharos.rocks) | [:white_check_mark:](#加密連線站台資料列表) | [Maple3](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | 2019-10-31 測試: Websocket up |
 | :white_check_mark:  | 交通大學 機械工廠  |  [telnet://bbs.me.nctu.edu.tw](telnet://bbs.me.nctu.edu.tw) | | [Maple3.10-itoc](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/) | |
 | :x:  | 暨大電機 漂浮電子 | [telnet://bbs.ee.ncnu.edu.tw](telnet://bbs.ee.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark:  | 暨大土木 土木小站 | [telnet://bbs.ce.ncnu.edu.tw](telnet://bbs.ce.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |無法使用guest，以及看板列表毀損 |
+| :x:  | 暨大土木 土木小站 | [telnet://bbs.ce.ncnu.edu.tw](telnet://bbs.ce.ncnu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |無法使用guest，以及看板列表毀損 |
 | :x: | 靜宜水世界  | [telnet://bbs.cs.pu.edu.tw](telnet://bbs.cs.pu.edu.tw) | | | 2017/1/5測試：down
 | :white_check_mark: | 暨南大學 水沙連 | [telnet://bbs.ncnu.edu.tw](telnet://bbs.ncnu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 清華大學 楓橋驛站 | **因防火牆設定問題，請先使用 port 443**：<br>**[telnet://bbs.cs.nthu.edu.tw:443](telnet://bbs.cs.nthu.edu.tw:443)**<br>**[telnet://140.114.87.5:443](telnet://140.114.87.5:443)**<br>**[telnet://imaple.tw:443](telnet://imaple.tw:443)**<br>~~[telnet://bbs.cs.nthu.edu.tw](telnet://bbs.cs.nthu.edu.tw)~~ <br> ~~[telnet://imaple.tw](telnet://imaple.tw)~~ <br> ~~[telnet://140.114.87.5](telnet://140.114.87.5)~~ | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | (2007年, 系統從自己開發的系統, 轉換成 itoc 大 fork 出來的版本 繼續維護)
+| :white_check_mark: | 清華大學 楓橋驛站 | [telnet://bbs.cs.nthu.edu.tw](telnet://bbs.cs.nthu.edu.tw)<br> [telnet://imaple.tw](telnet://imaple.tw) <br> [telnet://140.114.87.5](telnet://140.114.87.5)<br>[telnet://bbs.cs.nthu.edu.tw:443](telnet://bbs.cs.nthu.edu.tw:443)<br>[telnet://140.114.87.5:443](telnet://140.114.87.5:443)<br>[telnet://imaple.tw:443](telnet://imaple.tw:443)<br> | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | (2007年, 系統從自己開發的系統, 轉換成 itoc 大 fork 出來的版本 繼續維護)
 | :x: | 清華資工 呼拉貝爾 | [telnet://114.32.9.125](telnet://114.32.9.125) | | [WindTop BBS](http://windtop.yzu.edu.tw/) |  |
 | :white_check_mark: | 中央大學 二進位 | [telnet://140.115.50.50](telnet://140.115.50.50) <br> [telnet://binary.csie.ncu.edu.tw](telnet://binary.csie.ncu.edu.tw) <br> [telnet://bbs.ncu.cc](telnet://bbs.ncu.cc) | | [Wind & Dust](http://ftp.isu.edu.tw/pub/Unix/BBS/WD/) | 2019-10-30 測試: Up ([telnet://bbs.ncu.cc](telnet://bbs.ncu.cc) 連線失敗) |
 | :white_check_mark: | 中央數學 織夢天堂 | [telnet://bbs.math.ncu.edu.tw](telnet://bbs.math.ncu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :white_check_mark: | 中山大學 美麗島 | [telnet://140.117.11.2](telnet://140.117.11.2) <br> [telnet://bbs.nsysu.edu.tw](telnet://bbs.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
-| :white_check_mark: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
+| :white_check_mark: | 中山大學 美麗島 | [telnet://140.117.11.2](telnet://140.117.11.2) <br> [telnet://2001:288:8001:11::2](telnet://2001:288:8001:11::2) <br> [telnet://bbs.nsysu.edu.tw](telnet://bbs.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
+| :white_check_mark: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://2001:288:8001:11::6](telnet://2001:288:8001:11::6) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | | [Formosa BBS](https://github.com/pigfoot/formosa) | |
 | :white_check_mark: | 中正築夢園 | [telnet://140.123.29.12](telnet://140.123.29.12) [telnet://cd.cna.ccu.edu.tw](telnet://cd.cna.ccu.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |已由Maple 3 轉至 Maple3.10-itoc 版本 |
 | :x: | 中正大學 寂寞芳心小站 | [telnet://bbs.ccu.edu.tw](telnet://bbs.ccu.edu.tw) | | [Maple3.02](http://ftp.isu.edu.tw/Unix/BBS/Maple/Maple3/)  |2018/8/3測試：down |
 | :white_check_mark: | 中正大學 闇黑國度 | [telnet://bbs.cna.ccu.edu.tw](telnet://bbs.cna.ccu.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -93,7 +93,7 @@
 | - | - | - | - | - | - |
 | :white_check_mark: | 建中之夏 烏魯木齊 | [telnet://bbs.ck.tp.edu.tw](telnet://bbs.ck.tp.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 北一女中 弗基斯特 | [telnet://fgisc.org](telnet://fgisc.org)  | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
-| :x: | 中山女中 楓資羽翼 | [telnet://203.68.236.13](telnet://203.68.236.13) <br> [telnet://csisc.csghs.tp.edu.tw](telnet://csisc.csghs.tp.edu.tw) | | [WindTop](http://windtop.yzu.edu.tw/) → [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2019-10-30 測試: Telnet 連線無回應；可連網頁版 <br> (有網頁版：<http://bbs.csghs.tp.edu.tw/>) |
+| :x: | 中山女中 楓資羽翼 | [telnet://203.68.236.13](telnet://203.68.236.13) <br> [telnet://csisc.csghs.tp.edu.tw](telnet://csisc.csghs.tp.edu.tw) | | [WindTop](http://windtop.yzu.edu.tw/) → [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2019-12-31 測試: Down <br> (有網頁版：<http://bbs.csghs.tp.edu.tw/>) |
 | :x: | 成功高中 沉澱日記 | [telnet://203.71.24.161](telnet://203.71.24.161) <br> [telnet://bbs.ckcsc.info](telnet://bbs.ckcsc.info) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 永春高中 永春哈哈 | [telnet://haha.ycsh.tp.edu.tw](telnet://haha.ycsh.tp.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 無法進去看板閱讀， 僅能瀏覽公佈欄/精華區 |
 | :x: | 中壢高中 壢網狂瀾 | [telnet://clhs.csie.org](telnet://clhs.csie.org) | |[WindTop BBS](http://windtop.yzu.edu.tw/) |  |
@@ -124,7 +124,7 @@
 | :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | 2019-10-31 測試: Up (似乎有同 IP 不能同時連線的限制) |
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| | [WindTopBBS](http://windtop.yzu.edu.tw) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
-| :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://59.126.126.89](telnet://59.126.126.89) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
+| :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://122.117.16.81](telnet://122.117.16.81) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) |2020/02/22: 已復站 | 
 | :white_check_mark: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 八八八 | [telnet://bbs.wim888.tw](telnet://bbs.wim888.tw)| |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
@@ -164,7 +164,7 @@
 | 可連線？ | 站名 | 位址 | 加密 | BBS 版本 | 備註 |
 | - | - | - | - | - | - |
 | :x: | 美國 天天壇 | [telnet://tttan.com](telnet://tttan.com) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
-| :white_check_mark: | 美國 San Diego Home | [telnet://bbs.huaxiaspace.net](telnet://bbs.huaxiaspace.net) <br> [telnet://sd-bbs.net](telnet://sd-bbs.net) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | 2019-10-30 測試: Up ([telnet://bbs.huaxiaspace.net](telnet://bbs.huaxiaspace.net) 連線無回應) |
+| :white_check_mark: | 美國 San Diego Home | [telnet://bbs.huaxiaspace.net](telnet://bbs.huaxiaspace.net) <br> [telnet://sd-bbs.net](telnet://sd-bbs.net) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | 2019-12-31 測試: Up |
 
 ## 加密連線站台資料列表
 
