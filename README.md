@@ -9,7 +9,7 @@
 共筆版本(Co-writing version)可自由編輯，穩定版本(stable version)則是一段時間後，確認沒太大問題的修改才會 push 上去，若覺得 GitHub 版本太久沒更新可去[提 issue](https://github.com/bbslist/bbslist.github.io/issues)，整體資訊是否過時與過於老舊，以及之後有沒有更好的方法，則取決於能協助確認資訊、改善方法的大大們有多少了。
 
 ## 數量
-* 目前統計約 **58** 個
+* 目前統計有 **58** 個
 
 ## 近期修正與補充欄位
 
@@ -97,7 +97,7 @@
 | :x: | 成功高中 沉澱日記 | [telnet://203.71.24.161](telnet://203.71.24.161) <br> [telnet://bbs.ckcsc.info](telnet://bbs.ckcsc.info) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 永春高中 永春哈哈 | [telnet://haha.ycsh.tp.edu.tw](telnet://haha.ycsh.tp.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 無法進去看板閱讀， 僅能瀏覽公佈欄/精華區 |
 | :x: | 中壢高中 壢網狂瀾 | [telnet://clhs.csie.org](telnet://clhs.csie.org) | |[WindTop BBS](http://windtop.yzu.edu.tw/) |  |
-| :white_check_mark: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [wss://eod.tw/bbs](wss://eod.tw/bbs) |[:x:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支
+| :x: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [wss://eod.tw/bbs](wss://eod.tw/bbs) |[:x:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支
 | :x: | 台中一中電研社 極光鯨藍 | [telnet://tcirc.org](telnet://tcirc.org/) <br> [wss://tcirc.org/bbs](wss://tcirc.org/bbs) | [:x:](#加密連線站台資料列表) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> GitHub: https://github.com/MapleCirc/Auroral
 | :x: | 台中二中 迷幻國度 | [telnet://csc241.tcssh.tc.edu.tw](telnet://csc241.tcssh.tc.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc)
 | :white_check_mark: | 台南一中 與南共舞 | [telnet://bbs.tnfsh.tn.edu.tw](telnet://bbs.tnfsh.tn.edu.tw) <br> [telnet://wolf.tfcis.org](telnet://wolf.tfcis.org) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -125,7 +125,7 @@
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net)| | [WindTopBBS](http://windtop.yzu.edu.tw) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://122.117.16.81](telnet://122.117.16.81) | |[MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) |2020/02/22: 已復站 | 
-| :white_check_mark: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
+| :x: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) |2020/04/19:down | 
 | :white_check_mark: | 八八八 | [telnet://bbs.wim888.tw](telnet://bbs.wim888.tw)| |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | |[Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 
@@ -149,7 +149,7 @@
 | :white_check_mark: | 四川大學 藍色星空站 | [telnet://bbs.lsxk.org](telnet://bbs.lsxk.org) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | 已經關閉telnet，只提供校內ssh加密訪問 |
 | :x: | 復旦大學 日月光華_公網 | [telnet://bbs.fudan.sh.cn](telnet://bbs.fudan.sh.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
 | :x: | 中國科大 瀚海星雲_公網 | [telnet://ustcbbs.ustc.edu.cn](telnet://ustcbbs.ustc.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
-| :x: | 華中理工 白云黃鶴 | [telnet://bbs.whnet.edu.cn](telnet://bbs.whnet.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
+| :white_check_mark: | 華中理工 白云黃鶴 | [telnet://bbs.whnet.edu.cn](telnet://bbs.whnet.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | 2020/4/29測試:up |
 | :x: | 上海交大 飲水思源 | [telnet://bbs.sjtu.edu.cn](telnet://bbs.sjtu.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
 | :x: | 東南大學 虎踞龍盤 | [telnet://bbs.seu.edu.cn](telnet://bbs.seu.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
 | :x: | 中國礦業大學 放鶴亭 | [telnet://bbs.cumt.edu.cn](telnet://bbs.cumt.edu.cn) | | [Firebird BBS](http://ftp.isu.edu.tw/pub/Unix/BBS/FireBird/) | |
@@ -301,7 +301,7 @@
       │   │   │           └── WindTop BBS 3.0x  2000-2004
       │   │   │               ├── WindTop BBS 3.10  2004-2009
       │   │   │               └── DreamLand BBS 3.02  成功大學  夢之大地＊  2004-2009
-      │   │   │                   └── DreamLand BBS 3.10  2010-
+      │   │   │                   └── DreamLand BBS 3.10 (DreamBBS 2010)  2010-2017
       │   │   │                       └── DreamLand BBS  2017-
       │   │   └── Napoleon BBS  交大工管  1995
       │   └── NCU BBS  中央大學  N.A.  n.d.
