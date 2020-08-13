@@ -94,7 +94,7 @@
 | :x: | 建中之夏 烏魯木齊 | [telnet://bbs.ck.tp.edu.tw](telnet://bbs.ck.tp.edu.tw)| | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 北一女中 弗基斯特 | [telnet://fgisc.org](telnet://fgisc.org)  | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 中山女中 楓資羽翼 | [telnet://203.68.236.13](telnet://203.68.236.13) <br> [telnet://csisc.csghs.tp.edu.tw](telnet://csisc.csghs.tp.edu.tw) | | [WindTop](http://windtop.yzu.edu.tw/) → [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2019-12-31 測試: Down <br> (有網頁版：<http://bbs.csghs.tp.edu.tw/>) |
-| :x: | 成功高中 沉澱日記 | [telnet://203.71.24.161](telnet://203.71.24.161) <br> [telnet://bbs.ckcsc.info](telnet://bbs.ckcsc.info) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
+| :white_check_mark: | 成功高中 沈澱日記 | 不提供 telnet 連線 | [:white_check_mark:](#加密連線站台資料列表) | [Current Ptt](https://github.com/ptt/pttbbs) | |
 | :x: | 永春高中 永春哈哈 | [telnet://haha.ycsh.tp.edu.tw](telnet://haha.ycsh.tp.edu.tw) | | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 無法進去看板閱讀， 僅能瀏覽公佈欄/精華區 |
 | :x: | 中壢高中 壢網狂瀾 | [telnet://clhs.csie.org](telnet://clhs.csie.org) | |[WindTop BBS](http://windtop.yzu.edu.tw/) |  |
 | :white_check_mark: | 台中一中 龍夢紀元 | [telnet://bbs.tcfsh.tc.edu.tw](telnet://bbs.tcfsh.tc.edu.tw) <br> [telnet://eod.tw](telnet://eod.tw) <br> [ws://eod.tw/bbs](ws://eod.tw/bbs) |[:x:](#加密連線站台資料列表)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 可以相容於 PTT 的 Websocket 模式連線 <br> 程式碼為極光鯨藍之穩定版本分支 <br> 2020-06-05 test: Up，guest 登入即斷線，加密連線 down
@@ -187,6 +187,9 @@
 * 台中一中電研社 極光鯨藍
   * ssh bbs@tcirc.org
 
+* 成功高中 沈澱日記
+  * ssh -p 25 bbsu@bbs.ckcsc.net
+
 * 未名空間
   * ssh mitbbs.com (與 telnet BBS 帳密同步)
   * 目前只支援 SSH-1
@@ -215,6 +218,9 @@
 * 夢之大地
   * [wss://ws.ccns.ncku.edu.tw/bbs](wss://ws.ccns.ncku.edu.tw/bbs) (從改版過的 PttChrome 免安裝體驗: <https://term.ccns.ncku.edu.tw> )
   * [wss://ws.ccns.cc/bbs](wss://ws.ccns.ncku.edu.tw/bbs) (從改版過的 PttChrome 免安裝體驗: <https://term.ccns.cc> )
+
+* 成功高中 沈澱日記
+  * [wss://bbs.ckcsc.net/ws](wss://bbs.ckcsc.net/ws) ( https://bbs.ckcsc.net ) (BBS 端無法記錄登入來源)
 
 ## BBS 瀏覽器列表
 
