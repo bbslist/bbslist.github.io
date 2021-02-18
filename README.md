@@ -14,7 +14,7 @@
 
 ## 可連線數量
 
-* 目前統計有 **47** 個
+* 目前統計有 **49** 個
 * 詳細情況請見下文表格中的 `可連` 欄位
 
 ## 近期修正與補充欄位
@@ -71,7 +71,7 @@
 | :x: | 中央數學 織夢天堂 | [telnet://bbs.math.ncu.edu.tw](telnet://bbs.math.ncu.edu.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :white_check_mark: | 中山大學 美麗島 | [telnet://140.117.11.2](telnet://140.117.11.2) <br> [telnet://2001:288:8001:11::2](telnet://2001:288:8001:11::2) <br> [telnet://bbs.nsysu.edu.tw](telnet://bbs.nsysu.edu.tw) | [Formosa BBS](https://github.com/pigfoot/formosa) | |
 | :white_check_mark: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://2001:288:8001:11::6](telnet://2001:288:8001:11::6) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | [Formosa BBS](https://github.com/pigfoot/formosa) | |
-| :x: | 中正築夢園 | [telnet://140.123.29.12](telnet://140.123.29.12) [telnet://cd.cna.ccu.edu.tw](telnet://cd.cna.ccu.edu.tw)| [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已由Maple 3 轉至 Maple3.10-itoc 版本 <br> 2020-12-17 測試: Down |
+| :white_check_mark: | 中正築夢園 | ~~telnet://140.123.29.12~~ <br> ~~telnet://cd.cna.ccu.edu.tw~~ <br> [telnet://207.148.108.123](telnet://207.148.108.123) <br> [telnet://ccudream.csie.io](telnet://ccudream.csie.io) <br> [telnet://cd.csie.io](telnet://cd.csie.io) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已由Maple 3 轉至 Maple3.10-itoc 版本 <br> 2021-02-18 測試: 新域名 up |
 | :x: | 中正大學 寂寞芳心小站 | [telnet://bbs.ccu.edu.tw](telnet://bbs.ccu.edu.tw) | [Maple3.02](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple3/)  | 2018/8/3測試：down |
 | :x: | 中正大學 闇黑國度 | [telnet://bbs.cna.ccu.edu.tw](telnet://bbs.cna.ccu.edu.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020-12-17 測試: Down |
 | :x: | 中正通訊 1394 | [telnet://bbs.comm.ccu.edu.tw](telnet://bbs.comm.ccu.edu.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020-12-17 測試: Down |
@@ -120,7 +120,7 @@
 | - | - | - | - | - |
 | :x: | 風與塵埃的對話 | [telnet://wdbbs.tw](telnet://wdbbs.tw) | [Wind & Dust](https://github.com/bbsmirror/BBSmirror/tree/master/WD/) | 2021-01-11: Down |
 | :white_check_mark: | 巴哈姆特BBS | [telnet://bbs.gamer.com.tw](telnet://bbs.gamer.com.tw) <br> [wss://term.gamer.com.tw/bbs](wss://term.gamer.com.tw/bbs) [:lock:](#Websocket-連線) <br> <https://term.gamer.com.tw> (wss) [:lock:](#Websocket-連線) <br> [telnet://bahamut.org](telnet://bahamut.org) | [Maple3.02](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple3/) | guest 無法登入, 需先從 Web 註冊 |
-| :white_check_mark: | 花魁異色館 | ~~telnet://libido.cx~~ [telnet://74.52.17.106](telnet://74.52.17.106) :x: <br> [wss://libido.malusu.com:8899/bbs](wss://libido.malusu.com:8899/bbs) [:lock:](#Websocket-連線) :x: <br> <https://libido.malusu.com> (wss) [:lock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2018/10 下旬起停用 libido.cx 域名連線 <br> 不開放 guest 登入 <br> 2021-01-11: Up |
+| :white_check_mark: | 花魁異色館 | ~~telnet://libido.cx~~ <br> [telnet://74.52.17.106](telnet://74.52.17.106) :x: <br> [wss://libido.malusu.com:8899/bbs](wss://libido.malusu.com:8899/bbs) [:lock:](#Websocket-連線) :x: <br> <https://libido.malusu.com> (wss) [:lock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2018/10 下旬起停用 libido.cx 域名連線 <br> 不開放 guest 登入 <br> 2021-01-11: Up |
 | :white_check_mark: | 亞特蘭提斯 | [telnet://125.227.52.214](telnet://125.227.52.214) | [Atlantis](https://github.com/bbsmirror/BBSmirror/tree/master/Atlantis) | 註冊通過者, 可自己開個板, 免等審核
 | :x: | 月下夜想 | [telnet://220.130.248.130](telnet://220.130.248.130) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 反地球聯邦組織 | [telnet://122.116.74.57](telnet://122.116.74.57) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
