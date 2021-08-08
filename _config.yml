@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Telnet BBS List (2021/5/29)
+title: Telnet BBS List
 description: Lists for Telnet BBS sites (especially in Big5/GBK encoding)
 plugins:
   - jemoji
