@@ -124,7 +124,7 @@
 | - | - | - | - | - |
 | :x: | 風與塵埃的對話 | [telnet://wdbbs.tw](telnet://wdbbs.tw) | [Wind & Dust](https://github.com/bbsmirror/BBSmirror/tree/master/WD/) | 2021-01-11: Down |
 | :white_check_mark: | 巴哈姆特BBS | [telnet://bbs.gamer.com.tw](telnet://bbs.gamer.com.tw) <br> [wss://term.gamer.com.tw/bbs](wss://term.gamer.com.tw/bbs) [:lock:](#Websocket-連線) <br> <https://term.gamer.com.tw> (wss) [:lock:](#Websocket-連線) <br> [telnet://bahamut.org](telnet://bahamut.org) | [Maple3.02](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple3/) | guest 無法登入, 需先從 Web 註冊：<https://www.gamer.com.tw> |
-| :white_check_mark: | 花魁異色館 | telnet://libido.cx <br> [telnet://74.52.17.106](telnet://74.52.17.106) :x: <br> [wss://libido.malusu.com:8899/bbs](wss://libido.malusu.com:8899/bbs) [:lock:](#Websocket-連線) <br> <https://libido.malusu.com> (wss) [:lock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2018/10 下旬起停用 libido.cx 域名連線 <br> 2021-08-18: 原域名 up <br> 不開放 guest 登入 <br> 2021-01-11: Up |
+| :white_check_mark: | 花魁藝色館 | telnet://libido.cx <br> [telnet://74.52.17.106](telnet://74.52.17.106) :x: <br> [wss://libido.malusu.com:8899/bbs](wss://libido.malusu.com:8899/bbs) [:lock:](#Websocket-連線) <br> <https://libido.malusu.com> (wss) [:lock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2018/10 下旬起停用 libido.cx 域名連線 <br> 2021-08-18: 原域名 up <br> 不開放 guest 登入 <br> 2021-01-11: Up |
 | :white_check_mark: | 亞特蘭提斯 | [telnet://125.227.52.214](telnet://125.227.52.214) <br> [telnet://bbs.bsd.com.tw](telnet://bbs.bsd.com.tw) | [Atlantis](https://github.com/bbsmirror/BBSmirror/tree/master/Atlantis) | 註冊通過者, 可自己開個板, 免等審核
 | :x: | 月下夜想 | [telnet://220.130.248.130](telnet://220.130.248.130) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 反地球聯邦組織 | [telnet://122.116.74.57](telnet://122.116.74.57) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
@@ -137,7 +137,7 @@
 | :white_check_mark: | 543 音樂站 | [telnet://music543.com](telnet://music543.com) | [Current Ptt](https://github.com/ptt/pttbbs)  <br> trunk r3359 | 2021-07-10: Up <br> 網頁版（資料不完全與 telnet 介面同步）：<http://music543.com> :unlock: |
 | :white_check_mark: | 幸運草之戀 | [telnet://segaa.net](telnet://segaa.net) | [WindTopBBS-3.02-20021129-SNAP](https://github.com/bbsmirror/BBSmirror/tree/master/WindTop) | |
 | :white_check_mark: | 內灣新小月台 | [telnet://bbs.emu486.net](telnet://bbs.emu486.net) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) <br> [MapleBBS-itoc-emu486](https://github.com/irvin/MapleBBS-itoc-emu486) | 
-| :white_check_mark: | 西雅圖 | [telnet://www.seattle.ro](telnet://www.seattle.ro) [telnet://seattle.ro](telnet://seattle.ro) [telnet://122.117.16.81](telnet://122.117.16.81) | [MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020/02/22: 已復站 | 
+| :white_check_mark: | 西雅圖 | [telnet://www.seattle.tw](telnet://www.seattle.tw) [telnet://seattle.tw](telnet://seattle.tw) [telnet://122.117.16.81](telnet://122.117.16.81) | [MapleBBS-3.10-20121021-PACK.itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020/02/22: 已復站 | 
 | :x: | 伙計小站 | [telnet://patw.idv.tw](telnet://patw.idv.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020/04/19:down | 
 | :white_check_mark: | 八八八 | [telnet://bbs.wim888.tw](telnet://bbs.wim888.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | | 
 | :white_check_mark: | △．Kirika | [telnet://andcycle.idv.tw](telnet://andcycle.idv.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 網頁版：<http://bbs.wim888.tw> :unlock: |
@@ -215,7 +215,7 @@
 | 台大資管 鳴蟬小站 墮落天堂 | [wss://tolo.ntu.im/bbs](wss://tolo.ntu.im/bbs) | <https://tolo.ntu.im> | <https://github.com/robertabcd/PttChrome> |
 | 淒美燈塔 | [wss://bbs.pharos.rocks](wss://wsbbs.pharos.rocks) | <https://bbs.pharos.rocks> | <https://github.com/robertabcd/PttChrome> |
 | 中正大學 闇黑國度 | [wss://term.cna.ccu.edu.tw:9800](wss://term.cna.ccu.edu.tw:9800) :unlock: | <https://term.cna.ccu.edu.tw> :unlock: | <https://github.com/robertabcd/PttChrome>
-| 夢之大地 | [wss://ws.ccns.ncku.edu.tw/bbs](wss://ws.ccns.ncku.edu.tw/bbs) <br> [wss://ws.ccns.cc/bbs](wss://ws.ccns.cc/bbs) | <https://term.ccns.ncku.edu.tw> <br> <https://term.ccns.cc> | <https://github.com/ccns/PttChrome> |
+| 夢之大地 | [wss://ws.ccns.ncku.edu.tw/bbs](wss://ws.ccns.ncku.edu.tw/bbs) (支援 IPv6) <br> [wss://ws.ccns.cc/bbs](wss://ws.ccns.cc/bbs) | <https://term.ccns.ncku.edu.tw> <br> <https://term.ccns.cc> | <https://github.com/ccns/PttChrome> |
 | 台中一中 龍夢紀元 | [wss://eod.tw/bbs](wss://eod.tw/bbs) <br> [wss://bbs.tcfsh.tc.edu.tw/bbs](wss://bbs.tcfsh.tc.edu.tw/bbs) | |
 | 台中一中電研社 極光鯨藍 | [wss://tcirc.org/bbs](wss://tcirc.org/bbs) | | |
 | 巴哈姆特 BBS | [wss://term.gamer.com.tw/bbs](wss://term.gamer.com.tw/bbs) | <https://term.gamer.com.tw> | <https://github.com/robertabcd/PttChrome> |
