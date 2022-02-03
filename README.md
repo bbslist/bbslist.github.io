@@ -76,9 +76,9 @@
 | :x: | 中央數學 織夢天堂 | [telnet://bbs.math.ncu.edu.tw](telnet://bbs.math.ncu.edu.tw) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 中山大學 美麗島 | [telnet://140.117.11.2](telnet://140.117.11.2) <br> [telnet://[2001:288:8001:11::2]](telnet://[2001:288:8001:11::2]) <br> [telnet://bbs.nsysu.edu.tw](telnet://bbs.nsysu.edu.tw) | [Formosa BBS CE](https://github.com/PichuChen/formosa) | 2021-07-10: IPv4 無法連線 |
 | :x: | 中山大學 西子灣 | [telnet://140.117.11.6](telnet://140.117.11.6) <br> [telnet://[2001:288:8001:11::6]](telnet://[2001:288:8001:11::6]) <br> [telnet://bbs3.nsysu.edu.tw](telnet://bbs3.nsysu.edu.tw) | [Formosa BBS CE](https://github.com/PichuChen/formosa) | 網頁版: <https://[2001:288:8001:11::6]> <br> 2021-07-10: IPv4 無法連線 <br> 2021-07-10: 僅網頁版可連 <br> 2021-12-01: 網頁版 down |
-| :white_check_mark: | 中正築夢園 | ~~telnet://140.123.29.12~~ <br> ~~telnet://cd.cna.ccu.edu.tw~~ <br> [telnet://207.148.108.123](telnet://207.148.108.123) <br> [telnet://ccudream.csie.io](telnet://ccudream.csie.io) <br> [telnet://cd.csie.io](telnet://cd.csie.io) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已由Maple 3 轉至 Maple3.10-itoc 版本 <br> 2021-02-18 測試: 新域名 up <br> 預計 2021/12/30 關站 |
+| :white_check_mark: | ~~中正~~築夢園 | ~~telnet://140.123.29.12~~ <br> ~~telnet://cd.cna.ccu.edu.tw~~ <br> [telnet://207.148.108.123](telnet://207.148.108.123) <br> [telnet://ccudream.csie.io](telnet://ccudream.csie.io) <br> [telnet://cd.csie.io](telnet://cd.csie.io) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 已由Maple 3 轉至 Maple3.10-itoc 版本 <br> 2021-02-18 測試: 新域名 up <br> 預計 2021/12/30 關站 <br> 2021-12-30 取消關站 |
 | :x: | 中正大學 寂寞芳心小站 | [telnet://bbs.ccu.edu.tw](telnet://bbs.ccu.edu.tw) | [Maple3.02](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple3/)  | 2018/8/3測試：down |
-| :white_check_mark: | 中正大學 闇黑國度 | [telnet://bbs.cna.ccu.edu.tw](telnet://bbs.cna.ccu.edu.tw) :x: <br> [wss://term.cna.ccu.edu.tw:9800](wss://term.cna.ccu.edu.tw:9800) (TLS 1.0/1.1) [:unlock:](#Websocket-連線) <br> <https://term.cna.ccu.edu.tw> (wss) (TLS 1.0/1.1) [:unlock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020-12-17 測試: Down <br> 2021-08-18: WebSocket & PttChrome up |
+| :white_check_mark: | 中正大學 闇黑國度 | [telnet://bbs.cna.ccu.edu.tw](telnet://bbs.cna.ccu.edu.tw) :x: <br> [wss://term.cna.ccu.edu.tw:9800](wss://term.cna.ccu.edu.tw:9800) (TLS 1.0/1.1) [:unlock:](#Websocket-連線) <br> <https://term.cna.ccu.edu.tw> (wss) (TLS 1.0/1.1) [:unlock:](#Websocket-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 2020-12-17 測試: Down <br> 2021-08-18: WebSocket & PttChrome up <br> 2022-01-31: 預計 2022/3/1 關站 |
 | :white_check_mark: | 中正通訊 1394 | [telnet://bbs.comm.ccu.edu.tw](telnet://bbs.comm.ccu.edu.tw) :x: <br> `ssh bbs@bbs.comm.ccu.edu.tw` [:lock:](#SSH-連線) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | 網頁版：<https://bbs.comm.ccu.edu.tw> <br> 2021-08-18: Telnet 連線停用 <br> 2021-12-01: 加密連線 up |
 | :x: | 中正心理 心海奇航 賽卡羅旗號 | [telnet://140.123.185.40](telnet://140.123.185.40) | [Maple3.10-itoc](https://github.com/xeonchen/maplebbs-itoc) | |
 | :x: | 政大資科 貓空行館 | [telnet://bbs.cs.nccu.edu.tw](telnet://bbs.cs.nccu.edu.tw) | [Maple3.02](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple3/) |
@@ -259,7 +259,7 @@
   - `N.A.`: 代表站臺暫無法考證
   - `n.d.`: 年代暫無法考證
 * 同一系統不同版本的歷史代表站臺相同時，只在其中最早版本上標出歷史代表站臺。
-* 開發年代主要參考了版權宣告之日期，以及程式修改紀錄。
+* 開發年代主要參考了版權宣告之日期以及程式修改紀錄。以取時間區間之聯集為原則。
 
 
 <big><pre>* Pirate BBS 1.6  Mississippi State University  The Mars Hotel  1990
@@ -272,6 +272,7 @@
 &nbsp;     │   ├── [Pivot BBS](https://github.com/bbsmirror/BBSmirror/blob/master/PivotBBS/source/pivot) [5.8](https://github.com/bbsmirror/BBSmirror/tree/master/PivotBBS/source/pivot/v5.08) 中興計中  天樞資訊  1993&ndash;1996
 &nbsp;     │   │   ├── [NCHU Pivot BBS 5.9](https://github.com/bbsmirror/BBSmirror/blob/master/PivotBBS/source/pivot/pivot5.9.tar.gz)  1996
 &nbsp;     │   │   └── [Feeling BBS](https://github.com/bbsmirror/BBSmirror/tree/master/Feeling-nsysu)  中正計中  寂寞芳心  1995&ndash;1996
+&nbsp;     │   │       └── [Feeling-nsysu (Feeling BBS 1.0 TS)](https://github.com/bbsmirror/BBSmirror/blob/master/Feeling-nsysu/Feeling-1.0b1.tar.gz)  1997
 &nbsp;     │   ├── NCTU CIS BBS  交大資科  n.d.
 &nbsp;     │   ├── Phoenix BBS 3.0  交大資工  鳳凰城資訊站  1993, 1994
 &nbsp;     │   │   ├── [Phoenix BBS 4.0](https://github.com/bbsmirror/BBSmirror/tree/master/PhoenixBBS)  1995
@@ -333,7 +334,7 @@
 &nbsp;     │   │           │   ├── [Atlantis BBS](https://github.com/bbsmirror/BBSmirror/tree/master/Atlantis)  亞特蘭提斯＊  1996&ndash;
 &nbsp;     │   │           │   ├── NaiveAge BBS  中央機械  純真年代  n.d.
 &nbsp;     │   │           │   ├── Ptt BBS 0.001  臺灣大學  批踢踢實業坊＊  1996&ndash;2000
-&nbsp;     │   │           │   │   ├── Ptt BBS [1.0.0](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt/pttbbs-1.0.0.tar.gz) ([archived](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt))  1996&ndash;2000
+&nbsp;     │   │           │   │   ├── Ptt BBS (for Linux) [0.9.2](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt/pttsrc-0.9.2.tar.gz)&ndash;[1.0.0](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt/pttbbs-1.0.0.tar.gz) ([archived](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt))  2000
 &nbsp;     │   │           │   │   │   ├── [Open Ptt](https://github.com/bbsmirror/openptt) (Ptt BBS [1.0.1](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt/pttbbs-1.0.1.tar.gz)&ndash;[1.0.2](https://github.com/bbsmirror/BBSmirror/blob/master/Ptt/openptt/pttbbs-1.0.2.tar.gz))  2001
 &nbsp;     │   │           │   │   │   ├── [Ptt BBS Current](https://github.com/ptt/pttbbs)  2003&ndash;
 &nbsp;     │   │           │   │   │   │   ├── [pttbbs-henry](https://github.com/alextwl/pttbbs-henry)  暨大資工 霞蔚山城  2006&ndash;2015
@@ -355,13 +356,14 @@
 &nbsp;     │   │           ├── [RPG BBS](https://github.com/bbsmirror/BBSmirror/tree/master/Maple/Maple2/branch/rpg)  交通大學  創世紀  1996&ndash;1997
 &nbsp;     │   │           └── [Purple Garden BBS](https://github.com/bbsmirror/BBSmirror/blob/master/Maple/Maple2/branch/fpgsrc.tgz)  臺灣法律  小魚的紫色花園  1999
 &nbsp;     │   └── NCU BBS  中央大學  N.A.  n.d.
-&nbsp;     └── [NSYSU BBS](https://github.com/bbsmirror/BBSmirror/blob/master/FormosaBBS/old/bbs-2.2.1.tar.gz)  中山計中  美麗之島  1994, 1996, 1997, 1998
-&nbsp;         ├── [Formosa BBS](https://github.com/bbsmirror/BBSmirror/tree/master/FormosaBBS) [1.4.1](https://github.com/pigfoot/formosa/tree/c5efe3d3cb82e9c03cefeb6cd760bb9dfba8023e)  中山計中  美麗之島＊  1997&ndash;2009
+&nbsp;     └── [NSYSU BBS](https://github.com/bbsmirror/BBSmirror/blob/master/FormosaBBS/old/bbs-2.2.1.tar.gz) 1.0–3.0.0  中山計中  美麗之島  1992&ndash;1996
+&nbsp;         ├── [Formosa BBS](https://github.com/bbsmirror/BBSmirror/tree/master/FormosaBBS) [1.0.0-beta](https://github.com/bbsmirror/BBSmirror/blob/master/FormosaBBS/old/Formosa-1.0.0-beta.tar.gz)&ndash;[1.4.1](https://github.com/pigfoot/formosa/tree/c5efe3d3cb82e9c03cefeb6cd760bb9dfba8023e) ([archived](https://github.com/bbsmirror/BBSmirror/tree/master/FormosaBBS/old))  中山計中  美麗之島＊  1996&ndash;2009
 &nbsp;         │   └── [Formosa BBS CE](https://github.com/PichuChen/formosa)  2009&ndash;2012
 &nbsp;         ├── FCU CC BBS  逢甲計中  蒼穹資訊網  n.d.
 &nbsp;         └── Rose BBS  (玫瑰天空？)  n.d.
 * [Power BBS](https://github.com/bbsmirror/BBSmirror/tree/master/PowerBBS)  中華資工  方城資訊站  1994&ndash;1997
 * [ColaBBS](https://github.com/bbsmirror/BBSmirror/tree/master/ColaBBS)  交大資科  插花島  1997&ndash;2000
+&nbsp; └── [OpenColaBBS](https://github.com/bbsmirror/ColaBBS)  2007
 * [天火 BBS](http://tube.ee.tku.edu.tw/~rexchen/bbs/index.html) ([archived](https://github.com/bbsmirror/BBSmirror/tree/master/rexchen))  淡江電機  蛋捲廣場＊  2002
 </pre></big>
 
