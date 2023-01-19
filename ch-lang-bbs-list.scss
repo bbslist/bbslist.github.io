@@ -1,0 +1,52 @@
+---
+title: Chinese-language BBS List CSS
+description: Stylesheet for <https://hackmd.io/@holishing/r1pdt-59b>
+---
+
+/*
+<style> */ #_ { }
+
+body {
+  counter-reset: bbstotal bbsup;
+}
+
+.bbslist > table {
+  counter-reset: catetotal cateup;
+}
+
+.bbslist:not(.excluded) > table td:nth-of-type(1) > img.emoji:nth-of-type(1) {
+  counter-increment: bbstotal catetotal;
+}
+
+.bbslist:not(.excluded) > table td:nth-of-type(1) > img.emoji[alt=":white_check_mark:"] {
+  counter-increment: bbstotal catetotal bbsup cateup;
+}
+
+.bbslist:not(.excluded) > table td:nth-of-type(1):hover::after,
+.bbslist:not(.excluded) > table td:nth-of-type(1):focus-within::after {
+  content: counter(bbsup) "/" counter(bbstotal);
+  display: block;
+  position: absolute;
+  color: white;
+  background: #068de9;
+}
+
+.bbslist:not(.excluded)::after {
+  content: "此分類可連：" counter(cateup) "/" counter(catetotal);
+  background: rgba(0, 255, 255, .3);
+}
+
+#bbstotal::after {
+  content: "全部可連：" counter(bbsup) "/" counter(bbstotal);
+  background: rgba(0, 255, 255, .3);
+}
+
+#doc.markdown-body .hide-next-in-hackmd + :not(footer),
+#content.main-content .hide-next-in-jekyll + :not(footer),
+#doc.markdown-body #end-of-article ~ :not(footer),
+#content.main-content #end-of-article ~ :not(footer) {
+  display: none;
+}
+
+/*
+</style> */

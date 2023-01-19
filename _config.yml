@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-title: Telnet BBS List
-description: Lists for Telnet BBS sites (especially in Big5/GBK encoding)
+title: Chinese-language Telnet BBS List
+description: Lists of Chinese-language text-terminal BBS sites
+markdown: GFM
 plugins:
   - jemoji
